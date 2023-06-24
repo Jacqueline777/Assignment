@@ -253,3 +253,95 @@ git remote add origin "https://github.com/Jacqueline777/Assignment"
 git push origin master
 git pull
 git push origin master
+ls
+git rebase master
+git branch
+git pull
+git pull origin master
+git remote add origin https://github.com/Jacqueline777/Assignment/
+git push origin master
+git add .
+git status
+git push origin main
+git push origin master
+git push origin develop
+git branch master
+git branch master2
+git branch --set-upstream-to= master
+cd Assignments
+git status
+git rm -rf .git
+cd ..
+ls
+git Assignments
+cd Assignments2
+cd Assignment2
+git Assignments
+git rm -rf .git
+cd ..
+git status
+git fetch origin
+git branch
+git push origin master
+git checkout
+git checkout master
+git push origin master
+git branch
+git pull -all
+git pull --all
+git branch
+git checkout develop
+git checkout feature1
+git checkout feature2
+git checkout master
+git status
+git add .
+git commit -m "Main Merge"
+git push origin master
+ls
+cd Assignments
+ls
+cd ..
+rm -r Assignments
+rm -r Assignment2
+y
+ls
+mkdir Assignment1
+mv Code.txt Assignment1
+ls
+mv Output.txt Assignment1
+ls
+cd Assignment1
+cd ..
+git add .
+git commit -m "Rearranging my codes"
+git push origin master
+ls
+cd Assignment1
+touch Log.txt
+ls
+cd ..
+mkdir Assignment2
+touch feature1.txt
+touch feature2.txt
+mv feature1.txt Assignment2
+mv feature2.txt Assignment2
+ls
+cd Assignment2
+ls
+git branch develop
+git branch feature1
+cd ..
+git branch -D develop
+git branch -D feature1
+cd Assignment2
+git branch develop
+git branch feature1
+git checkout develop
+ls
+touch develop.txt
+git stash -u
+git checkout feature1
+git branch
+ls
+git stash pop
